@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm thrashdev 👋
+
+💻 After programming for 8 years in different languages (C, C++, C#, Java, Python) I finally landed on Go. Loving it so far. 
+🇻 Looking to get into Vue.js
+🎸 I really love thrash metal :D
 
 <!--
 **thrashdev/thrashdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
